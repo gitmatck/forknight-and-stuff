@@ -1,0 +1,46 @@
+*accurate as of june 27th 2024!!!*
+
+these are by price - cheapest to most expensive
+Name - Price - Version
+
+Skins (5)
+Spitfire - 0 - 1.12
+Blue Ranger - 800 - 1.10
+Assassin - 800 - 1.11
+Shock Trooper - 1200 - 1.11
+Redog Expert - 1500 - 1.10
+
+Pickaxes (3)
+Baseball Bat - 200 - 1.10
+Iron Pickaxe - 200 - 2.20
+Calculator - 800 - 2.10
+
+Themes (1)
+Main Theme - 500 - 2.20
+
+
+Skins/Outfits use Player Outfits as the inventory and View as the view thing
+Pickaxes/Harvesting Tools use Player Pickaxes as the inventory and Pickaxe View as the view thing
+Lobby Themes use Owned Lobby Themes as the inventory and Theme View as the view thing
+
+
+Pickaxes Prices
+Common - Free
+Uncommon - 200
+Rare - 500
+Epic - 800
+Legendary - 1200
+
+Outfits Prices
+Common - Free
+Uncommon - 800
+Rare - 1200 (old 1500)
+Epic - 1500 (old 2000)
+Legendary - 2000
+
+Themes Prices
+Common - Free
+Uncommon - 100
+Rare - 400
+Epic- 700
+Legendary - 1000
