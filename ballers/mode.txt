@@ -1,0 +1,3 @@
+{"Gamemode":"Classic 1v1",
+"Online":"false",
+"XP":"0.5"}
